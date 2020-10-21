@@ -4,5 +4,5 @@
 2. Added new data into the database and added a new location on map using _geodump.py_
 
 ## Snapshot ##
-Added the location of The Univeristy of Hong Kong
 ![A snapshot](https://github.com/jaspertan18/database-operations-with-python_coursera/blob/main/Capture.PNG)
+Added the location of The Univeristy of Hong Kong
